@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>StringExtensions </PackageId>
+    <Title>Lab 4 StringExtensions</Title>
+    <Authors>Danny Fu</Authors>
+    <Description>for devops lab 4</Description>
+  </PropertyGroup>
+
+</Project>

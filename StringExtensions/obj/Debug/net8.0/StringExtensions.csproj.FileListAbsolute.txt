@@ -1,0 +1,11 @@
+C:\Users\Admin3\Desktop\devops lab4\StringExtensions\bin\Debug\net8.0\StringExtensions.deps.json
+C:\Users\Admin3\Desktop\devops lab4\StringExtensions\bin\Debug\net8.0\StringExtensions.dll
+C:\Users\Admin3\Desktop\devops lab4\StringExtensions\bin\Debug\net8.0\StringExtensions.pdb
+C:\Users\Admin3\Desktop\devops lab4\StringExtensions\obj\Debug\net8.0\StringExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin3\Desktop\devops lab4\StringExtensions\obj\Debug\net8.0\StringExtensions.AssemblyInfoInputs.cache
+C:\Users\Admin3\Desktop\devops lab4\StringExtensions\obj\Debug\net8.0\StringExtensions.AssemblyInfo.cs
+C:\Users\Admin3\Desktop\devops lab4\StringExtensions\obj\Debug\net8.0\StringExtensions.csproj.CoreCompileInputs.cache
+C:\Users\Admin3\Desktop\devops lab4\StringExtensions\obj\Debug\net8.0\StringExtensions.dll
+C:\Users\Admin3\Desktop\devops lab4\StringExtensions\obj\Debug\net8.0\refint\StringExtensions.dll
+C:\Users\Admin3\Desktop\devops lab4\StringExtensions\obj\Debug\net8.0\StringExtensions.pdb
+C:\Users\Admin3\Desktop\devops lab4\StringExtensions\obj\Debug\net8.0\ref\StringExtensions.dll
