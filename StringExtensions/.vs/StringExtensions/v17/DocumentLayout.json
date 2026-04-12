@@ -6,12 +6,12 @@
       "AbsoluteMoniker": "D:0:0:{EF840959-56A5-4843-8438-B0255A23C929}|..\\ShowCase\\ShowCase.csproj|c:\\users\\admin3\\desktop\\devops lab4\\showcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12A53FA2-206C-4AC5-8325-A8ADFB28D75D}|StringExtensions.csproj|c:\\users\\admin3\\desktop\\devops lab4\\stringextensions\\string extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12A53FA2-206C-4AC5-8325-A8ADFB28D75D}|StringExtensions.csproj|solutionrelative:string extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{12A53FA2-206C-4AC5-8325-A8ADFB28D75D}|StringLibrary.csproj|c:\\users\\admin3\\desktop\\devops lab4\\stringextensions\\stringlibrary.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{12A53FA2-206C-4AC5-8325-A8ADFB28D75D}|StringLibrary.csproj|solutionrelative:stringlibrary.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A53FA2-206C-4AC5-8325-A8ADFB28D75D}|StringLibrary.csproj|c:\\users\\admin3\\desktop\\devops lab4\\stringextensions\\string extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A53FA2-206C-4AC5-8325-A8ADFB28D75D}|StringLibrary.csproj|solutionrelative:string extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,26 +31,25 @@
               "RelativeDocumentMoniker": "..\\ShowCase\\Program.cs",
               "ToolTip": "C:\\Users\\Admin3\\Desktop\\devops lab4\\ShowCase\\Program.cs",
               "RelativeToolTip": "..\\ShowCase\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-12T00:46:30.036Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StringExtensions",
+              "DocumentIndex": 1,
+              "Title": "StringLibrary",
               "DocumentMoniker": "C:\\Users\\Admin3\\Desktop\\devops lab4\\StringExtensions\\StringLibrary.csproj",
               "RelativeDocumentMoniker": "StringLibrary.csproj",
               "ToolTip": "C:\\Users\\Admin3\\Desktop\\devops lab4\\StringExtensions\\StringLibrary.csproj",
               "RelativeToolTip": "StringLibrary.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-12T00:25:26.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T00:25:26.654Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "String Extensions.cs",
               "DocumentMoniker": "C:\\Users\\Admin3\\Desktop\\devops lab4\\StringExtensions\\String Extensions.cs",
               "RelativeDocumentMoniker": "String Extensions.cs",
@@ -58,8 +57,7 @@
               "RelativeToolTip": "String Extensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T00:22:19.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T00:22:19.788Z"
             },
             {
               "$type": "Bookmark",
