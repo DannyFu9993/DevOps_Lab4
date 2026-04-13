@@ -2,20 +2,20 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "StringExtensions/1.0.0": {
+      "Dfu7-StringExtensions/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/StringExtensions.dll": {}
+          "bin/placeholder/Dfu7-StringExtensions.dll": {}
         },
         "runtime": {
-          "bin/placeholder/StringExtensions.dll": {}
+          "bin/placeholder/Dfu7-StringExtensions.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "StringExtensions/1.0.0": {
+    "Dfu7-StringExtensions/1.0.0": {
       "type": "project",
       "path": "../StringExtensions/StringLibrary.csproj",
       "msbuildProject": "../StringExtensions/StringLibrary.csproj"
@@ -23,7 +23,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "StringExtensions >= 1.0.0"
+      "Dfu7-StringExtensions >= 1.0.0"
     ]
   },
   "packageFolders": {
