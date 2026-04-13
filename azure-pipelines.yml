@@ -8,7 +8,7 @@ pool:
 
 variables:
   buildConfiguration: 'Release'
-  projectPath: 'StringExtensions/StringExtensions.csproj'
+  projectPath: 'StringExtensions/StringLibrary.csproj'
 
 steps:
 - task: UseDotNet@2
